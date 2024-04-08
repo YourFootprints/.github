@@ -72,11 +72,11 @@
 
 ## 🐾 아키텍처
 
-<img src="./profile/README/아키텍처.png" width="600px" />
+<img src="https://github.com/YourFootprints/.github/blob/main/profile/README/아키텍처.png" width="600px" />
 
 ## 🐾 ERD
 
-<img src="./profile/README/ERD.png" />
+<img src="https://github.com/YourFootprints/.github/blob/main/profile/README/ERD.png" />
 
 ## 🐾 주요 기능 및 서비스 화면
 
@@ -89,10 +89,10 @@
       <td><strong>기록</strong></td>
     </tr>
     <tr align="center">  <!-- 화면 이미지(1) -->
-      <td><img src="./profile/README/서비스화면/1-회원 가입 및 추가 정보 받기.gif" width="180px" /></td>
-      <td><img src="./profile/README/서비스화면/2-메인 페이지(날씨, 산책로 추천).gif" width="180px" /></td>
-      <td><img src="./profile/README/서비스화면/3-산책 시작.gif" width="180px" /></td>
-      <td><img src="./profile/README/서비스화면/4-기록-산책 목록 확인 및 수정.gif" width="180px" /></td>
+      <td><img src="https://github.com/YourFootprints/.github/blob/main/profile/README/서비스화면/1-회원 가입 및 추가 정보 받기.gif" width="180px" /></td>
+      <td><img src="https://github.com/YourFootprints/.github/blob/main/profile/README/서비스화면/2-메인 페이지(날씨, 산책로 추천).gif" width="180px" /></td>
+      <td><img src="https://github.com/YourFootprints/.github/blob/main/profile/README/서비스화면/3-산책 시작.gif" width="180px" /></td>
+      <td><img src="https://github.com/YourFootprints/.github/blob/main/profile/README/서비스화면/4-기록-산책 목록 확인 및 수정.gif" width="180px" /></td>
     </tr>
     <tr>  <!-- 기능 설명(1) -->
       <td>카카오 간편 로그인을 통해 회원가입을 진행합니다. 산책로 추천을 받기위해 추가정보를 입력받습니다</td>
@@ -107,10 +107,10 @@
       <td><strong>프로필화면</strong></td>
     </tr>
     <tr align="center">  <!-- 화면 이미지(2) -->
-      <td><img src="./profile/README/서비스화면/5-랭킹-내 발자국, 동네 발자국, 주간 랭킹 확인.gif" width="180px" /></td>
-      <td><img src="./profile/README/서비스화면/6-공개 산책 목록.gif" width="180px" /></td>
-      <td><img src="./profile/README/서비스화면/7-추천 산책로 달리기.gif" width="180px" /></td>
-      <td><img src="./profile/README/서비스화면/8-프로필 편집.gif" width="180px" /></td>
+      <td><img src="https://github.com/YourFootprints/.github/blob/main/profile/README/서비스화면/5-랭킹-내 발자국, 동네 발자국, 주간 랭킹 확인.gif" width="180px" /></td>
+      <td><img src="https://github.com/YourFootprints/.github/blob/main/profile/README/서비스화면/6-공개 산책 목록.gif" width="180px" /></td>
+      <td><img src="https://github.com/YourFootprints/.github/blob/main/profile/README/서비스화면/7-추천 산책로 달리기.gif" width="180px" /></td>
+      <td><img src="https://github.com/YourFootprints/.github/blob/main/profile/README/서비스화면/8-프로필 편집.gif" width="180px" /></td>
     </tr>
     <tr>  <!-- 기능 설명(2) -->
       <td>매주 빅데이터를 기반으로 가장 사람들이 많이 다니는 공간을 발자국으로 지정합니다. 이 곳을 가장 많이 다닌 사람의 프로필이 해당 공간에 표시되며, 나의 발자국 페이지를 통해 해당 공간을 방문하면 발자국을 얻으며 산책의 흥미를 이끌 수 있습니다.</td>
