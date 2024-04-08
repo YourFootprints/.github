@@ -72,7 +72,7 @@
 
 ## 🐾 아키텍처
 
-<img src="./README/아키텍처.png" width="600px" />
+<img src="./profile/README/아키텍처.png" width="600px" />
 
 ## 🐾 ERD
 
