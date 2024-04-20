@@ -242,9 +242,10 @@
       </td>
       <td>
         <ul>
-          <li>빅데이터 파이프라인 구축</li>
-          <li>추천 정보 수집 API</li>
-          <li>산책로 시작, 끝 API</li>
+          <li>빅데이터 파이프라인 구축(Hadoop, Spark, FastAPI)</li>
+          <li>추천 데이터 수집 알고리즘 구현</li>
+          <li>산책로 시작, 끝 API 구현</li>
+          <li>산책로 상세 페이지 API 구현</li>
           <li>인프라</li>
         </ul>
       </td>
