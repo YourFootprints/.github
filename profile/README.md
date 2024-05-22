@@ -23,8 +23,6 @@
 - **기간** : 24.02.26 ~ 24.04.05 (6주)
 - **트랙** : 빅데이터 (분산)
 
-
-
 ## 🐾 주요 기능 및 서비스 화면
 
 <div align="middle">
@@ -50,7 +48,7 @@
     <tr align="center">  <!-- 기능(2) -->
       <td><strong>랭킹</strong></td>
       <td><strong>산책목록</strong></td>
-      <td><strong>추천산책로</strong></td>
+      <td><strong>산책로상세</strong></td>
       <td><strong>프로필화면</strong></td>
     </tr>
     <tr align="center">  <!-- 화면 이미지(2) -->
@@ -122,7 +120,6 @@
 ## 🐾 ERD
 
 <img src="https://github.com/YourFootprints/.github/blob/main/profile/README/ERD.png" />
-
 
 ## 🐾 팀원
 
